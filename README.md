@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-js
+```js
 class AhmedAlbedeoi {
   constructor() {
     this.role = "Frontend Developer";
